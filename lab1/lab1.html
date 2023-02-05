@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="jquery-3.6.1.min.js"></script>
+</head>
+<body>
+    <input type="text" id="num"><br><br>
+    <button id="get" onclick="get_request()">get</button>
+    <button id="post" onclick="post_request();">post</button>
+    <button id="put" onclick="put_request()">put</button>
+    <button id="delete" onclick="delete_request();">delete</button><br><br>
+    <div id="output"></div>
+    <script >
+        function get_request() {
+            $.ajax({
+                url: 'http://localhost:88/lab1/.ada',
+                method: 'GET',
+                accepts: 'application/json; charset=utf-8',
+                dataType: 'json',
+                success: function (data) {
+                    document.getElementById("output").innerHTML = JSON.stringify(data);
+                }
+            });
+        };
+
+        function post_request() {
+            let num = document.getElementById('num').value;
+            $.ajax({
+                url: `http://localhost:88/lab1/.ada?result=${num}`,
+                method: 'POST',
+                dataType: 'json',
+                success: function (data) {
+                }
+            });
+            get_request();
+        };
+
+        function put_request() {
+            let num = document.getElementById('num').value;
+            $.ajax({
+                url: `http://localhost:88/lab1/.ada?push=${num}`,
+                method: 'PUT',
+                dataType: 'json',
+                complete: function (data) {
+                    get_request();
+                }
+            });
+        };
+        function delete_request(text) {
+            $.ajax({
+                url: 'http://localhost:88/lab1/.ada',
+                method: 'delete',
+                dataType: 'json',
+                complete: function (data) {
+                    get_request();
+                }
+            });
+        };
+
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DBContext-Web.config Connection String" description="DBContext Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="Server=localhost;Port=5432;Database=WEBAPI_DB;User Id=postgres;Password=123;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\tools\\4u1hij\\internet\\laba3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DBContext']/@connectionString" />
+  </parameter>
+</parameters>

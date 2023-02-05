@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Body><Sum_3 xmlns="http://rpa/"><a1><s>ytry</s><k>68</k><f>78.9</f></a1><a2><s>ghjj</s><k>90</k><f>78.7</f></a2></Sum_3></soap:Body></soap:Envelope>

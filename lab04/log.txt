@@ -1,0 +1,1 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><Sum xmlns="http://ADA/" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><a1><s>1</s><k>1</k><f>1.2</f></a1><a2><s>1</s><k>1</k><f>1.2</f></a2></Sum></s:Body></s:Envelope>

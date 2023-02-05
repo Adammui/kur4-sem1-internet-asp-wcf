@@ -1,0 +1,7 @@
+E:\tools\4u1hij\internet\h\lab04\Simplex\WinFormProxy\obj\Debug\net5.0-windows\WinFormProxy.csproj.AssemblyReference.cache
+E:\tools\4u1hij\internet\h\lab04\Simplex\WinFormProxy\obj\Debug\net5.0-windows\WinFormProxy.Form1.resources
+E:\tools\4u1hij\internet\h\lab04\Simplex\WinFormProxy\obj\Debug\net5.0-windows\WinFormProxy.csproj.GenerateResource.cache
+E:\tools\4u1hij\internet\h\lab04\Simplex\WinFormProxy\obj\Debug\net5.0-windows\WinFormProxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\tools\4u1hij\internet\h\lab04\Simplex\WinFormProxy\obj\Debug\net5.0-windows\WinFormProxy.AssemblyInfoInputs.cache
+E:\tools\4u1hij\internet\h\lab04\Simplex\WinFormProxy\obj\Debug\net5.0-windows\WinFormProxy.AssemblyInfo.cs
+E:\tools\4u1hij\internet\h\lab04\Simplex\WinFormProxy\obj\Debug\net5.0-windows\WinFormProxy.csproj.CoreCompileInputs.cache

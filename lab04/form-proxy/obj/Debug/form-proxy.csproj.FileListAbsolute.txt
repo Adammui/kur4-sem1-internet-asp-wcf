@@ -1,0 +1,9 @@
+E:\tools\4u1hij\internet\h\lab04\form-proxy\bin\Debug\form-proxy.exe.config
+E:\tools\4u1hij\internet\h\lab04\form-proxy\bin\Debug\form-proxy.exe
+E:\tools\4u1hij\internet\h\lab04\form-proxy\bin\Debug\form-proxy.pdb
+E:\tools\4u1hij\internet\h\lab04\form-proxy\obj\Debug\form-proxy.csproj.AssemblyReference.cache
+E:\tools\4u1hij\internet\h\lab04\form-proxy\obj\Debug\form_proxy.Properties.Resources.resources
+E:\tools\4u1hij\internet\h\lab04\form-proxy\obj\Debug\form-proxy.csproj.GenerateResource.cache
+E:\tools\4u1hij\internet\h\lab04\form-proxy\obj\Debug\form-proxy.csproj.CoreCompileInputs.cache
+E:\tools\4u1hij\internet\h\lab04\form-proxy\obj\Debug\form-proxy.exe
+E:\tools\4u1hij\internet\h\lab04\form-proxy\obj\Debug\form-proxy.pdb

@@ -4,7 +4,7 @@ Repository also includes lecture materials and exam prepare document
 ## Remarks
 - all the app were published on IIS server;
 - i worked with ajax requests, session stored variables;
-- MVC asp.net app;
+- MVC asp.net app with postgre connection;
 - Hateoas links generation;
 - ASMX and WCF servises standarts and development process. proxy generation with WSDL.EXE;
 - WSDL documents and standarts; SOAP structure;
